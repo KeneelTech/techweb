@@ -1,0 +1,59 @@
+.box {
+    float: right;
+    width: 200px;
+    height: 50px;
+    }
+    .box2 {
+    float: right;
+    width: 200px;
+    height: 50px;
+    }
+    .box3 {
+    float: right;
+    width: 200px;
+    height: 50px;
+    }
+    .door {
+    float: left;
+    }
+    
+    .set {
+      position: relative ;
+      bottom: 150px;
+    }
+    .special {
+      padding-right: 650px;
+      padding-left: 350px;
+      border-style: dashed;
+     
+    }
+    
+    .top {
+      padding-top: 100px;
+      padding-right: 50px;
+      padding-left: 350px;
+      }
+    
+      .power {
+        padding-left: 350px; 
+      }
+      .power3 {
+        padding-left: 350px; 
+        border-style: double;
+      }
+      .skill{
+        padding-left: 350px;
+      }
+      .skill2{
+        position: relative ;
+      bottom: 150px;
+      }
+      .power2{
+        padding-left: 350px; 
+        border-style: groove;
+        margin:auto
+      }
+    
+      .end{
+      
+      }
