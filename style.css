@@ -21,6 +21,13 @@
       position: relative ;
       bottom: 150px;
     }
+
+    .setU {
+      float: right; 
+      height: 100px;
+      bottom: 100px;
+    }
+
     .special {
       padding-right: 650px;
       padding-left: 350px;
