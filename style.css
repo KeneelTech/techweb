@@ -23,9 +23,9 @@
     }
 
     .setU {
-      float: right; 
-      height: 100px;
-      bottom: 100px;
+      position: relative; 
+      bottom: 400px;
+      float: right;
     }
 
     .special {
@@ -39,6 +39,7 @@
       padding-top: 100px;
       padding-right: 50px;
       padding-left: 350px;
+      right: 100px;
       }
     
       .power {
