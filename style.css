@@ -22,12 +22,24 @@
       bottom: 150px;
     }
 
+    .setQ {
+      position: relative ;
+      bottom: 400px;
+      float: right;
+    }
+
     .setU {
       position: relative; 
       bottom: 400px;
       float: right;
     }
 
+    .skillQ {
+      position: relative ;
+      bottom: 400px;
+      float: right;
+    }
+    
     .special {
       padding-right: 650px;
       padding-left: 350px;
@@ -61,7 +73,5 @@
         border-style: groove;
         margin:auto
       }
-    
-      .end{
+
       
-      }
